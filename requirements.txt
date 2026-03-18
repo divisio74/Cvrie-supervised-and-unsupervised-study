@@ -4,3 +4,5 @@ matplotlib
 scikit-learn
 pillow
 ipykernel
+scikit-image
+ntlk
