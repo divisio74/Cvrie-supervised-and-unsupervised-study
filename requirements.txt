@@ -5,4 +5,5 @@ scikit-learn
 pillow
 ipykernel
 scikit-image
-ntlk
+nltk
+spacy
